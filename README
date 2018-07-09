@@ -1,0 +1,25 @@
+This program works by running it with command line arguments specifying options to sort random numbers with specific sorting methods.
+command line Argument -A employs all sorting algorithms
+-m enables minSort
+-b enables bubbleSort
+-i enables insertionSort
+-q enables quickSort
+-M enables mergeSort
+-p allows to specify how many items are printed
+-r sets the seed
+-n sets the number of random elements
+
+1.assignment2/README
+2.assignment2/Makefile
+3.assignment2/sorting.c
+4.assignment2/sorting.h
+5.assignment2/minSort.c
+6.assignment2/minsort.h
+7.assignment2/bubbleSort.c
+8.assignment2/bubbleSort.h
+9.assignment2/insertionSort.c
+10.assignment2/insertionSort.h
+11.assignment2/quickSort.c
+12.assignment2/quickSort.h
+13.assignment2/mergeSort.c
+14.assignment2/mergSort.h
